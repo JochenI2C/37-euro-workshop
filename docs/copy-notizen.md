@@ -16,3 +16,4 @@ Eine große Idee, konkrete Zahlen, kurze Sätze, Du-Anrede, keine Floskeln, kein
 - Die verbesserten Blutwerte entstanden in der Zeit, in der noch Medikamente genommen wurden. Deshalb heißt es „unkritischer Bereich“ und nicht „ohne Tabletten geschafft“.
 - Der Gesundheits-Disclaimer steht im Footer.
 - Nicht auf der Seite: das Vorteilspaket mit 266 € Gesamtwert (in der Vorlage ist kein Platz dafür).
+- Autoren-Text nennt die Qualifikation **Biologe und Heilpraktiker**. Formulierungen bleiben bewusst sachlich (keine Heilversprechen, HWG).

@@ -1,6 +1,6 @@
-# GICHTKLAR 14 · Verkaufsseite für den 37-€-Workshop
+# GICHT IM GRIFF · Verkaufsseite für den 37-€-Workshop
 
-Verkaufsseite für **GICHTKLAR 14**, ein 14-Tage-Ernährungssystem für Männer ab 45 mit Gicht.
+Verkaufsseite für **GICHT IM GRIFF**, ein 14-Tage-Ernährungssystem für Männer ab 45 mit Gicht.
 
 ## Projekt-Kontext
 
@@ -24,7 +24,7 @@ Verkaufsseite für **GICHTKLAR 14**, ein 14-Tage-Ernährungssystem für Männer 
 ## Aufbau
 
 - `index.html`: die komplette Seite (HTML und CSS in einer Datei)
-- `bilder/cover.png`: 3D-Box-Mockup GICHTKLAR 14 (720 × 960 px, transparenter Hintergrund)
+- `bilder/cover.png`: 3D-Box-Mockup GICHT IM GRIFF (720 × 960 px, transparenter Hintergrund)
 - `bilder/logo-web.jpg`: Gicht-Lotse-Logo für den Seitenkopf (520 px breit, aus `logo/gicht-lotse-logo-quer.jpg`)
 - `bilder/favicon.png`: Browser-Icon (180 px, aus `logo/gicht-lotse-icon-quadrat.webp`)
 - `bilder/logo/`: alle Original-Logo-Varianten (quer, 16:9, quadratisch, nur das G-Icon)
@@ -32,17 +32,17 @@ Verkaufsseite für **GICHTKLAR 14**, ein 14-Tage-Ernährungssystem für Männer 
 - `docs/lovable-prompt.md`: fertiger Prompt, um die Seite in Lovable zu bauen
 - `docs/copy-notizen.md`: Produktnamen und Hinweise zur Copy
 - `docs/mockup/box.html`: Quelle des Box-Mockups (HTML/CSS 3D). Texte und Farben dort ändern und neu rendern, der Befehl steht oben in der Datei
-- `docs/mockup/gichtklar14-box-1080x1440.png`: Box-Mockup in voller Größe, z. B. für Social Media oder bryght.social
-- `docs/referenz/mockup-pre-kurs-strategie.webp`: Box-Mockup aus dem Referenzprojekt, als Vorlage für ein eigenes GICHTKLAR-14-Cover. **Nicht selbst auf der Seite verwenden.**
+- `docs/mockup/gicht-im-griff-box-1080x1440.png`: Box-Mockup in voller Größe, z. B. für Social Media oder bryght.social
+- `docs/referenz/mockup-pre-kurs-strategie.webp`: Box-Mockup aus dem Referenzprojekt, als Vorlage für ein eigenes GICHT-IM-GRIFF-Cover. **Nicht selbst auf der Seite verwenden.**
 
 ## Noch offen
 
 - [ ] Bestell-Link von bryght.social an beiden Buttons einsetzen. Vorläufig verlinken sie auf https://gicht-coach.de/ernaehrungsratgeber/. Dann auch den Text unter dem Button zurücksetzen (Vorlage steht als Kommentar in `index.html`)
-- [x] Eigenes 3D-Box-Mockup für GICHTKLAR 14 im Stil der Referenz erstellt und als Cover eingesetzt
+- [x] Eigenes 3D-Box-Mockup für GICHT IM GRIFF im Stil der Referenz erstellt und als Cover eingesetzt
 - [x] Farben und Schriften von gicht-lotse.de und gicht-coach.de übernommen
 - [x] Drei Kundenstimmen von gicht-coach.de übernommen (Thomas, Michael, Monika; Hinweis auf Einzelberatung im Footer)
 - [x] Impressum und Datenschutz verlinkt (gicht-lotse.de/impressum, gicht-lotse.de/datenschutz)
 - [ ] Datenschutzerklärung auf gicht-lotse.de um diese Seite ergänzen: Hosting über GitHub Pages, Verkauf über bryght.social
-- [ ] Impressum prüfen: „§ 5 TMG“ auf „§ 5 DDG“ aktualisieren; als Heilpraktiker ggf. Berufsbezeichnung und zuständige Aufsichtsbehörde angeben
+- [ ] Impressum prüfen: „§ 5 TMG“ auf „§ 5 DDG“ aktualisieren
 - [x] Autoren-Foto hinzugefügt (Bildnachweis: Aljoscha Habel, ggf. im Impressum nennen)
 - [ ] Veröffentlichungs-URL festlegen

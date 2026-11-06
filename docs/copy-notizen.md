@@ -13,7 +13,7 @@ Eine große Idee, konkrete Zahlen, kurze Sätze, Du-Anrede, keine Floskeln, kein
 ## Hinweise
 
 - Keine erfundenen Testimonials (UWG). Nur echte Kundenstimmen verwenden.
-- Die verbesserten Blutwerte entstanden in der Zeit, in der noch Medikamente genommen wurden. Deshalb heißt es „unkritischer Bereich“ und nicht „ohne Tabletten geschafft“.
+- Eigene Zahlen (Stand gicht-coach.de): Harnsäure 7,3 → 6,3 mg/dl, Medikamente in Abstimmung mit dem Arzt abgesetzt, seit August 2017 keine Gichtanfälle. Kernaussage: **Bei mir hat die Ernährung gereicht. Dass sie bei anderen ausreicht, ist damit nicht bewiesen.** Diese Einschränkung muss auf der Seite sichtbar bleiben (Autoren-Text, Footer).
 - Der Gesundheits-Disclaimer steht im Footer.
 - Nicht auf der Seite: das Vorteilspaket mit 266 € Gesamtwert (in der Vorlage ist kein Platz dafür).
 - Autoren-Text nennt die Qualifikation **Biologe und Heilpraktiker**. Formulierungen bleiben bewusst sachlich (keine Heilversprechen, HWG).

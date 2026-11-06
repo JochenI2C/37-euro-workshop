@@ -17,3 +17,4 @@ Eine große Idee, konkrete Zahlen, kurze Sätze, Du-Anrede, keine Floskeln, kein
 - Der Gesundheits-Disclaimer steht im Footer.
 - Nicht auf der Seite: das Vorteilspaket mit 266 € Gesamtwert (in der Vorlage ist kein Platz dafür).
 - Autoren-Text nennt die Qualifikation **Biologe und Heilpraktiker**. Formulierungen bleiben bewusst sachlich (keine Heilversprechen, HWG).
+- Kundenstimmen stammen aus der Einzelberatung auf gicht-coach.de (nicht aus GICHTKLAR 14). Das steht im Footer. Sobald es Stimmen zu GICHTKLAR 14 gibt, diese bevorzugen.

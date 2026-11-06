@@ -38,7 +38,7 @@ Verkaufsseite für **GICHTKLAR 14**, ein 14-Tage-Ernährungssystem für Männer 
 - [ ] Bestell-Link von bryght.social an beiden Buttons einsetzen (`https://DEIN-BESTELL-LINK`)
 - [ ] Eigenes Box-Mockup für GICHTKLAR 14 im Stil der Referenz erstellen und als Cover einsetzen
 - [x] Farben und Schriften von gicht-lotse.de und gicht-coach.de übernommen
-- [ ] Drei echte Kundenstimmen einsetzen
+- [x] Drei Kundenstimmen von gicht-coach.de übernommen (Thomas, Michael, Monika; Hinweis auf Einzelberatung im Footer)
 - [x] Impressum und Datenschutz verlinkt (gicht-lotse.de/impressum, gicht-lotse.de/datenschutz)
 - [ ] Datenschutzerklärung auf gicht-lotse.de um diese Seite ergänzen: Hosting über GitHub Pages, Verkauf über bryght.social
 - [ ] Impressum prüfen: „§ 5 TMG“ auf „§ 5 DDG“ aktualisieren; als Heilpraktiker ggf. Berufsbezeichnung und zuständige Aufsichtsbehörde angeben

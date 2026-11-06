@@ -22,6 +22,8 @@ HIER DER CODE:
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>GICHTKLAR 14 | In 14 Tagen zu einem klaren Ernährungsplan bei Gicht</title>
+<link rel="icon" type="image/png" href="bilder/favicon.png">
+<link rel="apple-touch-icon" href="bilder/favicon.png">
 <meta name="description" content="Das einfache 3+3-Ernährungssystem für Männer ab 45 mit Gicht. 14-Tage-Fahrplan, Rezepte, Einkaufslisten. Nur 37 € statt 199 €.">
 <style>
 
@@ -32,6 +34,7 @@ html,body{background:#fff;}
 body{font-family:Helvetica,Arial,sans-serif;color:var(--ink);}
 .wrap{max-width:1080px;margin:0 auto;padding:46px 28px 56px;}
 .head{text-align:center;max-width:820px;margin:0 auto;}
+.logo{display:block;margin:0 auto 26px;width:180px;height:auto;}
 .eyebrow{display:inline-block;background:var(--tealbg);color:#1159AF;font-weight:700;font-size:12.5px;letter-spacing:1.5px;text-transform:uppercase;padding:7px 16px;border-radius:30px;}
 h1{color:var(--navy);font-size:42px;font-weight:900;line-height:1.1;margin-top:18px;}
 h1 .t{color:var(--teal);}
@@ -70,13 +73,14 @@ h1 .t{color:var(--teal);}
 a.buy{text-decoration:none;display:block;}
 a.buy .btn{transition:background .15s ease;cursor:pointer;}
 a.buy:hover .btn{background:var(--btnhover);}
-@media(max-width:820px){h1{font-size:32px;}.hero{flex-direction:column;gap:28px;}.hero .left{flex:none;}.testi{flex-direction:column;}.author{flex-direction:column;text-align:center;gap:18px;}}
+@media(max-width:820px){h1{font-size:32px;}.logo{width:150px;margin-bottom:20px;}.hero{flex-direction:column;gap:28px;}.hero .left{flex:none;}.testi{flex-direction:column;}.author{flex-direction:column;text-align:center;gap:18px;}}
 </style>
 </head>
 <body>
 <div class="wrap">
 
   <div class="head">
+    <img class="logo" src="bilder/logo-web.jpg" alt="Gicht Lotse">
     <span class="eyebrow">Für Männer ab 45 mit Gicht</span>
     <h1>In 14 Tagen vom Ernährungschaos zu einem <span class="t">klaren Plan</span></h1>
     <p class="sub">Das einfache 3+3-System zeigt dir, was du einschränkst und was du bewusst isst. Ohne komplizierte Diät, ohne Verbotstabellen, ohne stundenlange Recherche.</p>

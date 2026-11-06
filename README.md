@@ -25,6 +25,9 @@ Verkaufsseite für **GICHTKLAR 14**, ein 14-Tage-Ernährungssystem für Männer 
 
 - `index.html`: die komplette Seite (HTML und CSS in einer Datei)
 - `bilder/cover.svg`: Platzhalter-Cover
+- `bilder/logo-web.jpg`: Gicht-Lotse-Logo für den Seitenkopf (520 px breit, aus `logo/gicht-lotse-logo-quer.jpg`)
+- `bilder/favicon.png`: Browser-Icon (180 px, aus `logo/gicht-lotse-icon-quadrat.webp`)
+- `bilder/logo/`: alle Original-Logo-Varianten (quer, 16:9, quadratisch, nur das G-Icon)
 - `bilder/autor.jpg`: Autoren-Foto (Foto: Aljoscha Habel); `bilder/autor.svg` springt ein, falls es fehlt
 - `docs/lovable-prompt.md`: fertiger Prompt, um die Seite in Lovable zu bauen
 - `docs/copy-notizen.md`: Produktnamen und Hinweise zur Copy

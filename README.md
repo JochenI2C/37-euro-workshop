@@ -37,7 +37,7 @@ Verkaufsseite für **GICHTKLAR 14**, ein 14-Tage-Ernährungssystem für Männer 
 
 ## Noch offen
 
-- [ ] Bestell-Link von bryght.social an beiden Buttons einsetzen. Vorläufig verlinken sie auf https://gicht-coach.de/ernaehrungsratgeber/
+- [ ] Bestell-Link von bryght.social an beiden Buttons einsetzen. Vorläufig verlinken sie auf https://gicht-coach.de/ernaehrungsratgeber/. Dann auch den Text unter dem Button zurücksetzen (Vorlage steht als Kommentar in `index.html`)
 - [x] Eigenes 3D-Box-Mockup für GICHTKLAR 14 im Stil der Referenz erstellt und als Cover eingesetzt
 - [x] Farben und Schriften von gicht-lotse.de und gicht-coach.de übernommen
 - [x] Drei Kundenstimmen von gicht-coach.de übernommen (Thomas, Michael, Monika; Hinweis auf Einzelberatung im Footer)

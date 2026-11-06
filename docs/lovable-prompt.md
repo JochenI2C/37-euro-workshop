@@ -82,8 +82,8 @@ a.buy:hover .btn{background:var(--btnhover);}
   <div class="head">
     <img class="logo" src="bilder/logo-web.jpg" alt="Gicht Lotse">
     <span class="eyebrow">Für Männer ab 45 mit Gicht</span>
-    <h1>In 14 Tagen vom Ernährungschaos zu einem <span class="t">klaren Plan</span></h1>
-    <p class="sub">Das einfache 3+3-System zeigt dir, was du einschränkst und was du bewusst isst. Ohne komplizierte Diät, ohne Verbotstabellen, ohne stundenlange Recherche.</p>
+    <h1><span class="t">Gicht im Griff</span>: In nur 14 Tagen raus aus dem Ernährungschaos, rein in einen Alltag mit mehr Sicherheit und Lebensfreude</h1>
+    <p class="sub">Entdecke die einfache 3+3-Ernährungsmethode: 3 Lebensmittelgruppen, die du einschränkst, und 3, die du bewusst nutzt. Ohne komplizierte Diäten und stundenlange Recherche.</p>
   </div>
 
   <div class="hero">

@@ -24,19 +24,21 @@ Verkaufsseite für **GICHTKLAR 14**, ein 14-Tage-Ernährungssystem für Männer 
 ## Aufbau
 
 - `index.html`: die komplette Seite (HTML und CSS in einer Datei)
-- `bilder/cover.svg`: Platzhalter-Cover
+- `bilder/cover.png`: 3D-Box-Mockup GICHTKLAR 14 (720 × 960 px, transparenter Hintergrund)
 - `bilder/logo-web.jpg`: Gicht-Lotse-Logo für den Seitenkopf (520 px breit, aus `logo/gicht-lotse-logo-quer.jpg`)
 - `bilder/favicon.png`: Browser-Icon (180 px, aus `logo/gicht-lotse-icon-quadrat.webp`)
 - `bilder/logo/`: alle Original-Logo-Varianten (quer, 16:9, quadratisch, nur das G-Icon)
 - `bilder/autor.jpg`: Autoren-Foto (Foto: Aljoscha Habel); `bilder/autor.svg` springt ein, falls es fehlt
 - `docs/lovable-prompt.md`: fertiger Prompt, um die Seite in Lovable zu bauen
 - `docs/copy-notizen.md`: Produktnamen und Hinweise zur Copy
+- `docs/mockup/box.html`: Quelle des Box-Mockups (HTML/CSS 3D). Texte und Farben dort ändern und neu rendern, der Befehl steht oben in der Datei
+- `docs/mockup/gichtklar14-box-1080x1440.png`: Box-Mockup in voller Größe, z. B. für Social Media oder bryght.social
 - `docs/referenz/mockup-pre-kurs-strategie.webp`: Box-Mockup aus dem Referenzprojekt, als Vorlage für ein eigenes GICHTKLAR-14-Cover. **Nicht selbst auf der Seite verwenden.**
 
 ## Noch offen
 
 - [ ] Bestell-Link von bryght.social an beiden Buttons einsetzen (`https://DEIN-BESTELL-LINK`)
-- [ ] Eigenes Box-Mockup für GICHTKLAR 14 im Stil der Referenz erstellen und als Cover einsetzen
+- [x] Eigenes 3D-Box-Mockup für GICHTKLAR 14 im Stil der Referenz erstellt und als Cover eingesetzt
 - [x] Farben und Schriften von gicht-lotse.de und gicht-coach.de übernommen
 - [x] Drei Kundenstimmen von gicht-coach.de übernommen (Thomas, Michael, Monika; Hinweis auf Einzelberatung im Footer)
 - [x] Impressum und Datenschutz verlinkt (gicht-lotse.de/impressum, gicht-lotse.de/datenschutz)

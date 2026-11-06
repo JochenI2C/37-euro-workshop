@@ -7,14 +7,14 @@
   Quelle für bilder/cover.png. Neu rendern mit:
   "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --hide-scrollbars \
     --default-background-color=00000000 --window-size=1080,1440 \
-    --screenshot=docs/mockup/gicht-im-griff-box-gold-1080x1440.png "file://$PWD/docs/mockup/box.html?v=gold"
-  (ohne ?v=gold entsteht die blaue CI-Variante)
+    --screenshot=docs/mockup/gicht-im-griff-box-1080x1440.png "file://$PWD/docs/mockup/box.html"
+  danach: sips -Z 960 docs/mockup/gicht-im-griff-box-1080x1440.png --out bilder/cover.png
 -->
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 html,body{width:1080px;height:1440px;background:transparent;overflow:hidden;}
 body{font-family:Helvetica,Arial,sans-serif;}
-/* Variante "blau" (CI gicht-lotse.de) ist Standard. Variante "gold" (wie Design-Vorlage) mit ?v=gold */
+/* Farben: CI gicht-lotse.de (blau). Variante "gold" nur zum Vergleich mit ?v=gold, nicht verwendet */
 :root{--blue:#3383C5;--light:#85CBFF;
   --bg1:#22395A;--bg2:#1A2B42;--bg3:#13202F;--side1:#0F1A27;--side2:#16263A;--side3:#1A2D44;
   --accent:#3383C5;--accent-ink:#fff;--accent-hi:#3B8DD0;--accent-lo:#1F5E93;--method:#85CBFF;--eyebrow:#85CBFF;}

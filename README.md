@@ -24,8 +24,7 @@ Verkaufsseite für **GICHT IM GRIFF**, ein 14-Tage-Ernährungssystem für Männe
 ## Aufbau
 
 - `index.html`: die komplette Seite (HTML und CSS in einer Datei)
-- `bilder/cover.png`: 3D-Box-Mockup GICHT IM GRIFF, Gold-Variante nach Design-Vorlage (720 × 960 px, transparent)
-- `bilder/cover-blau.png`: dieselbe Box in der blauen CI von gicht-lotse.de
+- `bilder/cover.png`: 3D-Box-Mockup GICHT IM GRIFF in der CI von gicht-lotse.de (720 × 960 px, transparent)
 - `bilder/logo-web.jpg`: Gicht-Lotse-Logo für den Seitenkopf (520 px breit, aus `logo/gicht-lotse-logo-quer.jpg`)
 - `bilder/favicon.png`: Browser-Icon (180 px, aus `logo/gicht-lotse-icon-quadrat.webp`)
 - `bilder/logo/`: alle Original-Logo-Varianten (quer, 16:9, quadratisch, nur das G-Icon)
@@ -33,7 +32,7 @@ Verkaufsseite für **GICHT IM GRIFF**, ein 14-Tage-Ernährungssystem für Männe
 - `docs/lovable-prompt.md`: fertiger Prompt, um die Seite in Lovable zu bauen
 - `docs/copy-notizen.md`: Produktnamen und Hinweise zur Copy
 - `docs/mockup/box.html`: Quelle des Box-Mockups (HTML/CSS 3D). Texte und Farben dort ändern und neu rendern, der Befehl steht oben in der Datei
-- `docs/mockup/gicht-im-griff-box-gold-1080x1440.png` und `…-box-1080x1440.png` (blau): Box-Mockups in voller Größe, z. B. für Social Media oder bryght.social
+- `docs/mockup/gicht-im-griff-box-1080x1440.png`: Box-Mockup in voller Größe, z. B. für Social Media oder bryght.social
 - `docs/referenz/mockup-pre-kurs-strategie.webp`: Box-Mockup aus dem Referenzprojekt, als Vorlage für ein eigenes GICHT-IM-GRIFF-Cover. **Nicht selbst auf der Seite verwenden.**
 
 ## Noch offen

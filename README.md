@@ -21,4 +21,4 @@ Verkaufsseite für das 37-€-Angebot **GICHTKLAR 14**, ein 14-Tage-Ernährungss
 - [ ] Drei echte Kundenstimmen einsetzen
 - [ ] Links zu Impressum und Datenschutz setzen
 - [ ] Eigenes Cover einsetzen
-- [ ] Autoren-Foto hinzufügen (Nutzungsrechte und Bildnachweis prüfen)
+- [x] Autoren-Foto hinzugefügt (Bildnachweis: Aljoscha Habel, ggf. im Impressum nennen)

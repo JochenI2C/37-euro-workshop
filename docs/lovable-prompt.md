@@ -10,7 +10,7 @@ WICHTIG FÜR DIE UMSETZUNG:
 1. Rendere diesen Code 1:1 per dangerouslySetInnerHTML in einer einzigen Komponente. Baue ihn NICHT in JSX oder Tailwind um. Ändere NICHTS an Struktur, Klassen, Texten oder CSS.
 2. Kein position:absolute. Die Seite liegt in einem normalen, weißen Wrapper.
 3. Setze den Hintergrund der gesamten App im globalen CSS auf Weiß: html, body, #root { background:#ffffff; margin:0; padding:0; }
-4. Beide Buttons verlinken auf denselben Bestell-Link: https://DEIN-BESTELL-LINK
+4. Beide Buttons verlinken auf denselben Bestell-Link (vorläufig https://gicht-coach.de/ernaehrungsratgeber/, später bryght.social)
 5. Cover-Bild und Autoren-Foto ersetze ich selbst. Lass die Bildpfade stehen.
 
 HIER DER CODE:
@@ -98,8 +98,8 @@ a.buy:hover .btn{background:var(--btnhover);}
         <li><span class="check">&#10003;</span><div><b>Persönliche Unterstützung</b>: Stell deine Fragen zur Umsetzung und gewinne Vertrauen in deine neuen Gewohnheiten</div></li>
       </ul>
       <div class="price"><span class="old">Statt 199 €</span><span class="new">nur 37 €</span></div>
-      <!-- BESTELL-LINK HIER EINTRAGEN -->
-      <a class="buy" href="https://DEIN-BESTELL-LINK"><div class="btn">Jetzt GICHTKLAR 14 für 37 € sichern</div></a>
+      <!-- BESTELL-LINK: vorläufig gicht-coach.de/ernaehrungsratgeber, später durch bryght.social-Link ersetzen -->
+      <a class="buy" href="https://gicht-coach.de/ernaehrungsratgeber/"><div class="btn">Jetzt GICHTKLAR 14 für 37 € sichern</div></a>
       <div class="micro">Sichere Bezahlung über bryght.social. Sofortzugang nach Kauf</div>
     </div>
   </div>
@@ -123,8 +123,8 @@ a.buy:hover .btn{background:var(--btnhover);}
 
   <div class="guarantee">14 Tage Geld-zurück-Garantie: Teste GICHTKLAR 14 in Ruhe. Passt es nicht zu deinem Alltag, bekommst du deine 37 € zurück, ohne Angabe von Gründen. Einmalzahlung, kein Abo.</div>
 
-  <!-- BESTELL-LINK HIER EINTRAGEN -->
-  <div class="cta2"><a class="buy" href="https://DEIN-BESTELL-LINK"><div class="btn">Jetzt GICHTKLAR 14 für 37 € sichern</div></a></div>
+  <!-- BESTELL-LINK: vorläufig gicht-coach.de/ernaehrungsratgeber, später durch bryght.social-Link ersetzen -->
+  <div class="cta2"><a class="buy" href="https://gicht-coach.de/ernaehrungsratgeber/"><div class="btn">Jetzt GICHTKLAR 14 für 37 € sichern</div></a></div>
 
   <div class="foot">GICHTKLAR 14 ist ein Ernährungs- und Informationsprogramm und ersetzt keine ärztliche Diagnose oder Behandlung. Beschwerdefreiheit, bestimmte Harnsäurewerte oder das Ausbleiben weiterer Gichtanfälle werden nicht garantiert. Die Kundenstimmen stammen aus meiner persönlichen Einzelberatung, Personendaten sind anonymisiert. Einzelergebnisse sind nicht übertragbar.<br><br><a href="https://gicht-lotse.de/impressum/" target="_blank" rel="noopener">Impressum</a> · <a href="https://gicht-lotse.de/datenschutz/" target="_blank" rel="noopener">Datenschutz</a> · © 2026 Jochen Hein</div>
 

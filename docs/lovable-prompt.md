@@ -24,14 +24,15 @@ HIER DER CODE:
 <title>GICHTKLAR 14 | In 14 Tagen zu einem klaren Ernährungsplan bei Gicht</title>
 <meta name="description" content="Das einfache 3+3-Ernährungssystem für Männer ab 45 mit Gicht. 14-Tage-Fahrplan, Rezepte, Einkaufslisten. Nur 37 € statt 199 €.">
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
 *{margin:0;padding:0;box-sizing:border-box;}
-:root{--navy:#16263A;--ink:#1F2D3D;--muted:#5B6B7B;--line:#E2E8F0;--teal:#14B8A6;--tealbg:#E9FBF7;}
+/* CI von gicht-lotse.de und gicht-coach.de: Blau #3383C5, Akzent Orange #FF8533, Schrift Helvetica */
+:root{--navy:#1A202C;--ink:#2D3748;--muted:#718096;--line:#E2E8F0;--teal:#3383C5;--tealbg:#EAF3FB;--orange:#FF8533;--btn:#3383C5;--btnhover:#1159AF;}
 html,body{background:#fff;}
-body{font-family:'Inter',sans-serif;color:var(--ink);}
+body{font-family:Helvetica,Arial,sans-serif;color:var(--ink);}
 .wrap{max-width:1080px;margin:0 auto;padding:46px 28px 56px;}
 .head{text-align:center;max-width:820px;margin:0 auto;}
-.eyebrow{display:inline-block;background:var(--tealbg);color:#0F766E;font-weight:700;font-size:12.5px;letter-spacing:1.5px;text-transform:uppercase;padding:7px 16px;border-radius:30px;}
+.eyebrow{display:inline-block;background:var(--tealbg);color:#1159AF;font-weight:700;font-size:12.5px;letter-spacing:1.5px;text-transform:uppercase;padding:7px 16px;border-radius:30px;}
 h1{color:var(--navy);font-size:42px;font-weight:900;line-height:1.1;margin-top:18px;}
 h1 .t{color:var(--teal);}
 .sub{color:var(--muted);font-size:18px;font-weight:500;line-height:1.5;margin:16px auto 0;max-width:620px;}
@@ -45,9 +46,9 @@ h1 .t{color:var(--teal);}
 .bullets b{color:var(--navy);}
 .check{flex:0 0 auto;width:24px;height:24px;border-radius:50%;background:var(--tealbg);color:var(--teal);display:flex;align-items:center;justify-content:center;font-weight:800;font-size:13px;margin-top:1px;}
 .price{margin-top:24px;}
-.price .old{color:var(--muted);text-decoration:line-through;font-size:17px;}
+.price .old{color:var(--orange);text-decoration:line-through;font-size:17px;}
 .price .new{color:var(--navy);font-weight:900;font-size:30px;margin-left:8px;}
-.btn{display:block;width:100%;margin-top:16px;padding:19px;background:var(--teal);color:#fff;border:none;border-radius:8px;font-family:inherit;font-size:17px;font-weight:800;text-align:center;}
+.btn{display:block;width:100%;margin-top:16px;padding:19px;background:var(--btn);color:#fff;border:none;border-radius:8px;font-family:inherit;font-size:17px;font-weight:800;text-align:center;}
 .micro{color:var(--muted);font-size:13.5px;margin-top:11px;text-align:center;}
 .story{max-width:660px;margin:52px auto 0;}
 .story h3{font-size:24px;font-weight:800;color:var(--navy);margin-bottom:14px;}
@@ -61,14 +62,14 @@ h1 .t{color:var(--teal);}
 .author img{flex:0 0 auto;width:140px;height:140px;border-radius:50%;object-fit:cover;background:#F4F7FA;border:1px solid var(--line);}
 .author .txt{flex:1;color:var(--ink);font-size:16.5px;line-height:1.55;}
 .author .txt b{color:var(--navy);font-weight:700;}
-.guarantee{max-width:640px;margin:30px auto 0;padding:18px 22px;background:var(--tealbg);border:1px solid #CDEDE8;border-radius:12px;color:#0F766E;font-size:15px;line-height:1.5;font-weight:600;text-align:center;}
+.guarantee{max-width:640px;margin:30px auto 0;padding:18px 22px;background:var(--tealbg);border:1px solid #C9DFF2;border-radius:12px;color:#1159AF;font-size:15px;line-height:1.5;font-weight:600;text-align:center;}
 .cta2{max-width:640px;margin:26px auto 0;}
 .foot{margin-top:42px;padding-top:20px;border-top:1px solid var(--line);color:var(--muted);font-size:13px;text-align:center;}
 .foot a{color:var(--muted);text-decoration:none;}
 /* Button-Links: keine Unterstreichung, Hover-Effekt */
 a.buy{text-decoration:none;display:block;}
 a.buy .btn{transition:background .15s ease;cursor:pointer;}
-a.buy:hover .btn{background:#0F9D8E;}
+a.buy:hover .btn{background:var(--btnhover);}
 @media(max-width:820px){h1{font-size:32px;}.hero{flex-direction:column;gap:28px;}.hero .left{flex:none;}.testi{flex-direction:column;}.author{flex-direction:column;text-align:center;gap:18px;}}
 </style>
 </head>

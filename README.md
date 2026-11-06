@@ -8,7 +8,11 @@ Verkaufsseite für **GICHTKLAR 14**, ein 14-Tage-Ernährungssystem für Männer 
 - **Markenumfeld:** Die Seite gehört zu Jochen Heins Gicht-Angebot neben
   - [gicht-lotse.de](https://gicht-lotse.de), der aktuellen Hauptseite
   - [gicht-coach.de](https://gicht-coach.de)
-- **Corporate Identity:** Farben, Schriften und Bildsprache werden von gicht-lotse.de und gicht-coach.de übernommen. Die aktuelle Seite nutzt noch die Farben der Referenzvorlage (Navy `#16263A`, Türkis `#14B8A6`, Schrift Inter).
+- **Corporate Identity:** übernommen von gicht-lotse.de und gicht-coach.de
+  - Hauptfarbe Blau `#3383C5`, dunkles Blau `#1159AF` (Button-Hover, Eyebrow, Garantie)
+  - Akzent Orange `#FF8533` (durchgestrichener Preis)
+  - Überschriften `#1A202C`, Text `#2D3748`, Nebentext `#718096`, Hellblau-Fläche `#EAF3FB`
+  - Schrift Helvetica
 - **Verkaufsplattform:** [bryght.social](https://bryght.social). Beide Buttons verlinken auf den Bestell-Link dort.
 - **Veröffentlichung:** Die URL steht noch nicht fest.
 - **Layout-Vorlage:** [jens-neubeck.com/pre_kurs_strategie](https://jens-neubeck.com/pre_kurs_strategie). Zweispaltiger Aufbau: Kopf zentriert, links das Produkt-Cover, rechts Bullets, Preis und Button. Danach folgen Story, Kundenstimmen, Autoren-Block, Garantie, zweiter Button und Footer.
@@ -30,7 +34,7 @@ Verkaufsseite für **GICHTKLAR 14**, ein 14-Tage-Ernährungssystem für Männer 
 
 - [ ] Bestell-Link von bryght.social an beiden Buttons einsetzen (`https://DEIN-BESTELL-LINK`)
 - [ ] Eigenes Box-Mockup für GICHTKLAR 14 im Stil der Referenz erstellen und als Cover einsetzen
-- [ ] Farben und Schriften an gicht-lotse.de und gicht-coach.de anpassen
+- [x] Farben und Schriften von gicht-lotse.de und gicht-coach.de übernommen
 - [ ] Drei echte Kundenstimmen einsetzen
 - [ ] Links zu Impressum und Datenschutz setzen
 - [x] Autoren-Foto hinzugefügt (Bildnachweis: Aljoscha Habel, ggf. im Impressum nennen)
